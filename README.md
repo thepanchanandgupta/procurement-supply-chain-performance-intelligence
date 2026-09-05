@@ -21,7 +21,6 @@ This project demonstrates a data-driven approach to connecting operational perfo
 
 ## Solution Flow
 
-```text
 Operational Data
        ↓
 Data Validation
